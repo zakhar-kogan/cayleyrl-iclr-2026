@@ -1,0 +1,14 @@
+__pycache__/
+.idea/
+.ipynb_checkpoints/
+*.ipynb
+.coverage
+*.egg-info
+build/
+htmlcov/
+.venv/
+dist/
+
+# Sphinx
+docs/_build
+docs/generated
